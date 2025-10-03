@@ -1,0 +1,21 @@
+{
+  "name": "Aventura del Saber",
+  "short_name": "Saber",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#F5F3FF",
+  "theme_color": "#C4B5FD",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
